@@ -1,7 +1,7 @@
 import Clock from "./Clock";
 import "./App.css";
 import Stopwatch from "./Stopwatch";
-import { BrowserRouter, Link, Routes, Route, Outlet } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
